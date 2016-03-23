@@ -1,0 +1,11 @@
+{
+  "name": "tvornot-react",
+  "version": "1.0.0",
+  "description": "TV or Not TV in React",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sara J. Martinez",
+  "license": "ISC"
+}
